@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-#define MAX_NUMS 1000 // Maximum number of integers to read from file
+#define MAX_NUMS 10000 // Maximum number of integers to read from file
 
 void bubble_sort(int arr[], int n) {
     int temp, i, j;
